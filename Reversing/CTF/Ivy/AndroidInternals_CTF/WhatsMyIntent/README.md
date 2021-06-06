@@ -1,5 +1,8 @@
 # WhatsMyIntent
 
+My write up is also available at [dev.to/wireless90](https://dev.to/wireless90/whatsmyintent-android-internals-ctf-ex1-5686)
+
+
 Install the given [apk](https://github.com/wireless90/AndroidInternalsCTF/tree/main/WhatsMyIntent).
 
 - Your task is to send an intent with action "dart_ctf". 

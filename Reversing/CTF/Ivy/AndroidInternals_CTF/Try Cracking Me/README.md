@@ -1,5 +1,8 @@
 # Try Cracking Me
 
+My write up is also available at [dev.to/wireless90](https://dev.to/wireless90/try-cracking-me-android-internals-ctf-ex2-4ohl)
+
+
 Get the [apk](https://github.com/wireless90/AndroidInternalsCTF/blob/main/Try%20Cracking%20Me/app-debug.apk) here.
 
 Firstly, I fired up my android emulator and installed the `app-debug.apk`. Then I opened the app.

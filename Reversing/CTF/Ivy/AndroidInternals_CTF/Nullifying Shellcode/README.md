@@ -1,5 +1,7 @@
 # Nullifying Shellcode
 
+My write up is also available at [dev.to/wireless90](https://dev.to/wireless90/nullifying-shellcode-android-internals-ctf-ex4-44i5)
+
 Get the [executable here](https://github.com/wireless90/AndroidInternalsCTF/tree/main/Nullifying%20Shellcode)
 
 - Our task is to write a shellcode which writes '1' to /data/local/tmp/is_admin. 

@@ -1,5 +1,7 @@
 # Off by One
 
+My write up is also available at [dev.to/wireless90](https://dev.to/wireless90/off-by-one-android-internals-ctf-ex8-3ihe)
+
 Get the [executable here](https://github.com/wireless90/AndroidInternalsCTF/tree/main/One%20By%20One)
 
 # Instructions

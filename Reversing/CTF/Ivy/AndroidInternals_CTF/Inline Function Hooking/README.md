@@ -1,5 +1,8 @@
 # Inline Function Hooking
 
+My write up is also available at [dev.to/wireless90](https://dev.to/wireless90/inline-function-hooking-android-internals-ctf-ex5-pjh)
+
+
 Get the [executable here](https://github.com/wireless90/AndroidInternalsCTF/tree/main/Inline%20Function%20Hooking)
 
 - Add a hook at the end of the `pick_number` function. 

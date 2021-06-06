@@ -1,5 +1,7 @@
 # Size Might Matter
 
+My write up is also available at [dev.to/wireless90](https://dev.to/wireless90/size-might-matter-android-internals-ctf-ex3-2bmm)
+
 Get the [apk](https://github.com/wireless90/AndroidInternalsCTF/tree/main/Size%20Might%20Matter) here.
 
 - Find the flag by giving the correct argument to a.out. 

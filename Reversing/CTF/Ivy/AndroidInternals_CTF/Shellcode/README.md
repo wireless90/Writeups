@@ -1,5 +1,7 @@
 # Shellcode
 
+My write up is also available at [dev.to/wireless90](https://dev.to/wireless90/shellcode-android-internals-ctf-ex4-4357)
+
 Get the [executable here](https://github.com/wireless90/AndroidInternalsCTF/tree/main/Shellcode)
 
 - Your task is to write a shellcode which writes '1' to /data/local/tmp/is_admin. 

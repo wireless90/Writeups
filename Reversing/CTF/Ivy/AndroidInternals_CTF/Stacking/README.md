@@ -1,5 +1,7 @@
 # Stacking
 
+My write up is also available at [dev.to/wireless90](https://dev.to/wireless90/stackoverflow-android-internals-ctf-ex7-2l0k)
+
 Get the [executable here](https://github.com/wireless90/AndroidInternalsCTF/tree/main/Stacking)
 
 # Instructions
