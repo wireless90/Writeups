@@ -222,9 +222,10 @@ Which byte do you want to replace: 86
 What is the replacement character? [a-z_{}]: d
 The flag is now 
 ivyctf{i_really_ho3ae_your_head_is_still_fia9e}
-```.
+```
 
 With that the rest of it is pretty much self explanatory.
+
 ```
 Which byte do you want to replace: 3a
 What is the replacement character? [a-z_{}]: p
