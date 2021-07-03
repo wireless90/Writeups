@@ -5,7 +5,8 @@ The best tool to crack this custom cipher with is your head. Just don't literall
 
 # Let's Begin
 
-Let's first see what type of file we are dealing wih                                                               
+Let's first see what type of file we are dealing with.
+```sh
 ┌──(razali㉿razali)-[~/Documents/Ivy/Finals/crypto]
 └─$ file flag.enc          
 flag.enc: data
@@ -24,6 +25,7 @@ AJW:�AW��J�`����
 00000010: 4a57 3a9c 0641 579a ea06 4a9c 6086 06cf  JW:..AW...J.`...
 00000020: 1606 16c7 cf0a 0a06 3ecf a99c d7         ........>....
 
+```
 
 Since the question wants us to manually crack the file, i'm pretty sure its either `rot` based cipher or perhaps
 a `substitution` cipher.
