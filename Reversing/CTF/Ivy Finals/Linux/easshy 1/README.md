@@ -4,6 +4,7 @@ ssh ctf@ctf.dart.com.sg -p 2310
 
 Password: gqeoczoksv
 
+
 ```sh
                                                                                                                         
 ┌──(razali㉿razali)-[~]
@@ -50,4 +51,7 @@ flagchecker                                                                     
 ```
 
 
-
+```sh
+ctf@easshy:~$ echo $FLAG
+ivyctf{a1nt_n0_th1ng}
+```
