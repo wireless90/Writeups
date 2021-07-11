@@ -87,3 +87,15 @@ Requested diary entry (len=29):
 ivyctf{wh0s__y0ur_w0rm_guy??}
 
 ```
+
+```sh
+D:\My Documents\Writeups\Reversing\CTF\Ivy Finals\Linux\diary-tapework 4>scp -P 2302 ctf@192.168.40.199:/usr/bin/diaryviewer .
+The authenticity of host '[192.168.40.199]:2302 ([192.168.40.199]:2302)' can't be established.
+ECDSA key fingerprint is SHA256:mzSGxnkaYOd3DJsJcnTrK6iuqzawg5Z1hjgcbkY5V2M.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+Warning: Permanently added '[192.168.40.199]:2302' (ECDSA) to the list of known hosts.
+ctf@192.168.40.199's password:
+diaryviewer                                                                           100%   17KB 315.2KB/s   00:00
+
+D:\My Documents\Writeups\Reversing\CTF\Ivy Finals\Linux\diary-tapework 4>
+```
